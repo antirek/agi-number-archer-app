@@ -1,5 +1,8 @@
 # agi-number-archer-app
-Sample app for #npm agi-number-archer
+
+Sample app for #npm [agi-number-archer](http://github.com/antirek/agi-number-archer)
+
+Use this sample app for creating your working app with your settings.
 
 
 ## Install
