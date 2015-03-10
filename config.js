@@ -6,15 +6,16 @@ module.exports = {
     },
     asterisk: {
         agiParamName: 'agi_arg_1',
-        resultDialPlanVarName: 'REGION_CODE',
+        resultDialPlanVarName1: 'REGION_CODE',
+        resultDialPlanVarName2: 'COUNTY_CODE',
         beep: false
     },
     logger: {
         console: {
-            colorize: true            
+            colorize: true
         },
         syslog: {
-            host: 'localhost'            
+            host: 'localhost'
         },
         file: {
             filename: '/var/log/agi-number-archer.log',
