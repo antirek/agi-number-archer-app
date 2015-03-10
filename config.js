@@ -1,5 +1,5 @@
 module.exports = {
-    port: 3010,
+    port: 3000,
     mongo: {
         connectionString: 'mongodb://localhost/regions',
         collection: 'regions'

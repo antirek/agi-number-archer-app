@@ -39,7 +39,8 @@ Use this sample app for creating your working app with your settings.
     },
     asterisk: {     // asterisk variables
       agiParamName: 'agi_arg_1',
-      resultDialPlanVarName: 'REGION_CODE',  // returned dialplan variable (see installation step 4)
+      resultDialPlanVarName1: 'REGION_CODE',  // returned dialplan variable REGION_CODE
+      resultDialPlanVarName1: 'COUNTY_CODE',  // returned dialplan variable COUNTY_CODE
       beep: false   // enable if want listen when agi work : )
     },
     logger: {       //write log use npm winston
@@ -60,4 +61,3 @@ Use this sample app for creating your working app with your settings.
 ## Where data?
 
 Use #npm [numcap-regions](http://github.com/antirek/numcap-regions) for load data to mongodb
-

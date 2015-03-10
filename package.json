@@ -1,6 +1,6 @@
 {
   "name": "agi-number-archer-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sample app for #npm agi-number-archer",
   "main": "app.js",
   "scripts": {
