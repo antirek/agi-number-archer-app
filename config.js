@@ -14,9 +14,6 @@ module.exports = {
         console: {
             colorize: true
         },
-        syslog: {
-            host: 'localhost'
-        },
         file: {
             filename: '/var/log/agi-number-archer.log',
             json: false

@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/antirek/agi-number-archer-app",
   "dependencies": {
-    "agi-number-archer": "0.0.5"
+    "agi-number-archer": "0.0.6"
   }
 }

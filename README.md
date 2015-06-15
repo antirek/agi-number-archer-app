@@ -47,9 +47,6 @@ Use this sample app for creating your working app with your settings.
         console: {            //to console
             colorize: true            
         },
-        syslog: {             //to syslog
-            host: 'localhost'            
-        },
         file: {               //to file
             filename: '/var/log/agi-number-archer.log',
             json: false
